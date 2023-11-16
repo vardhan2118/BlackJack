@@ -31,5 +31,5 @@ button {
   font-style: italic;
 }
 button:active  {
-  box-shadow: 0 0 0 0.2rem gold;
+  box-shadow: 0 0 0 0.1rem rgb(144, 127, 77);
 }
