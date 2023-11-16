@@ -30,6 +30,6 @@ button {
 #message-el {
   font-style: italic;
 }
-button:active {
-  box-shadow: 0px 5px 10px gold;
+button:active  {
+  box-shadow: 0 0 0 0.2rem gold;
 }
